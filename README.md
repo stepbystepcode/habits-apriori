@@ -13,6 +13,10 @@
 A habit analysis program based on Apriori algorithm.<br>
 I collected 56 pieces of data on student performance and habits through Tencent questionnaires and exported them to CSV files. Through this python program, I analyzed the influence of habits on performance.
 ![demo.png](https://i.loli.net/2020/07/31/2If7lqpmnOYTaQk.png)
+
+## Survey chart
+[Survey chart](chart.md)
+
 ## Questions
 For questions and support please use the <a href="https://gitter.im/habits-apriori/community">community chat</a>. The <a href="https://github.com/ybygjylj/habits-apriori/issues">issue list</a> of this repo is exclusively for bug reports and feature requests.
 
