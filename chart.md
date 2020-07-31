@@ -1,3 +1,6 @@
+<p align="center">
+<h1>中学生学习习惯调查问卷</h1>
+</p>
 1. 您的性别?
 ![](chart/chart0.png)
 ![](chart/chart1.png)
