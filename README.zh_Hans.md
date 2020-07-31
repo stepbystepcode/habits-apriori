@@ -6,7 +6,7 @@
   <a href="https://github.com/topics/python"><img src="https://img.shields.io/badge/language-python-blue.svg" alt="languange"></a>
   <a href="https://gitter.im/habits-apriori/community"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="chat"></a>
 </p>
-其他语言版本: <a href="https://github.com/ybygjylj/habits-apriori/blob/master/README.md">English</a>,<a href="https://github.com/ybygjylj/habits-apriori/edit/master/README.zh_Hans.md">简体中文</a>
+*其他语言版本: <a href="https://github.com/ybygjylj/habits-apriori/blob/master/README.md">English</a>,<a href="https://github.com/ybygjylj/habits-apriori/edit/master/README.zh_Hans.md">简体中文</a>*
 
 ## 介绍
 一个基于Apriori算法的习惯分析程序<br>
