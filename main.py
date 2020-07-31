@@ -134,7 +134,7 @@ if __name__ == '__main__':
 
     print('\n频繁项集的支持度')
     for i in range(len(C1)):
-        if "成绩好" in C1[i]:
+        if len(C1[i]) == 1:
             print(C1[i], '的支持度:', S[i])
 
     #输出关联规则
