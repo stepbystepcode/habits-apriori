@@ -8,7 +8,7 @@
 </p>
 
 ## Introduction
-A habit analysis program based on Apriori algorithm.
+A habit analysis program based on Apriori algorithm.<br>
 I collected 60 pieces of data on student performance and habits through Tencent questionnaires and exported them to CSV files. Through this python program, I analyzed the influence of habits on performance.
 
 ## Questions
