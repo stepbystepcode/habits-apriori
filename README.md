@@ -11,16 +11,16 @@
 
 ## 介绍
 一个基于Apriori算法的习惯分析程序<br>
-本人通过腾讯问卷收集了60份学生成绩与习惯的数据并导出CSV文件，通过这个python程序分析了习惯对成绩的影响。
+I collected 60 pieces of data on student performance and habits through Tencent questionnaires and exported them to CSV files. Through this python program, I analyzed the influence of habits on performance.
 
 ## 问题
-如有疑问和支持，请使用社区聊天。 此仓库的问题列表专门用于错误报告和功能请求。
+For questions and support please use the <a href="https://gitter.im/habits-apriori/community">community chat</a>. The <a href="https://github.com/ybygjylj/habits-apriori/issues">issue list</a> of this repo is exclusively for bug reports and feature requests.
 
 ## 保持联系
 - <a href="https://i.loli.net/2020/07/31/ptBWyVHU1Nzowhg.jpg" target="_blank">QQ</a>
 
 ## 特别感谢
-这个项目是我在创新教育实验室的实践作品。非常感谢创新导师田晓珏和其他帮助支持我的人。
+This project is my practical work in the innovation education laboratory. I am very grateful to the innovation mentor Tian Xiaojue and other people who helped and supported me.
 
 ## 许可
 <a href="https://raw.githubusercontent.com/ybygjylj/habits-apriori/master/LICENSE">MIT</a>
