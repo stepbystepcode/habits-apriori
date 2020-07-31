@@ -2,6 +2,7 @@
 ![](chart/chart1.png)
 ![](chart/chart2.png)
 ![](chart/chart3.png)
+![](chart/chart4.png)
 ![](chart/chart5.png)
 ![](chart/chart6.png)
 ![](chart/chart7.png)
