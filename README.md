@@ -14,8 +14,8 @@ A habit analysis program based on Apriori algorithm.
 For questions and support please use the <a href="https://gitter.im/habits-apriori/community">community chat</a>. The issue list of this repo is exclusively for bug reports and feature requests.
 
 ## Stay In Touch
-<a>Wechat</a>
-<a>QQ</a>
+- <a>Wechat</a>
+- <a>QQ</a>
 
 ## License
 <a href="https://raw.githubusercontent.com/ybygjylj/habits-apriori/master/LICENSE">MIT</a>
