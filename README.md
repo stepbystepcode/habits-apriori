@@ -6,7 +6,7 @@
   <a href="https://github.com/topics/python"><img src="https://img.shields.io/badge/language-python-blue.svg" alt="languange"></a>
   <a href="https://gitter.im/habits-apriori/community"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="chat"></a>
 </p>
-
+Read this in other languages: <a href="https://github.com/ybygjylj/habits-apriori/blob/master/README.md">English</a>,<a href="">简体中文</a>
 ## Introduction
 A habit analysis program based on Apriori algorithm.<br>
 I collected 60 pieces of data on student performance and habits through Tencent questionnaires and exported them to CSV files. Through this python program, I analyzed the influence of habits on performance.
