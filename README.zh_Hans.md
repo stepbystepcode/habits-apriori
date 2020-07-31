@@ -12,7 +12,7 @@
 ## 介绍
 一个基于Apriori算法的习惯分析程序<br>
 本人通过腾讯问卷收集了60份学生成绩与习惯的数据并导出CSV文件，通过这个python程序分析了习惯对成绩的影响。
-![demo](demo.png)
+![demo.png](https://i.loli.net/2020/07/31/2If7lqpmnOYTaQk.png)
 
 ## 问题
 如有疑问和支持，请使用<a href="https://gitter.im/habits-apriori/community">社区聊天</a>。 此仓库的<a href="https://github.com/ybygjylj/habits-apriori/issues">问题列表</a>专门用于错误报告和功能请求。
