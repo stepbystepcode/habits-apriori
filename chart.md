@@ -1,5 +1,5 @@
 <p align="center">
-<h1>中学生学习习惯调查问卷</h1>
+<h1 align="center">中学生学习习惯调查问卷</h1>
 </p>
 
 
