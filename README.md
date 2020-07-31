@@ -7,7 +7,7 @@
   <a href="https://gitter.im/habits-apriori/community"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="chat"></a>
 </p>
 
-Read this in other languages:<a href="https://github.com/ybygjylj/habits-apriori/blob/master/README.md">English</a>,<a href="#">简体中文</a>
+Read this in other languages:<a href="https://github.com/ybygjylj/habits-apriori/blob/master/README.md">English</a>,<a href="https://github.com/ybygjylj/habits-apriori/blob/master/README.zh_Hans.md">简体中文</a>
 
 ## Introduction
 A habit analysis program based on Apriori algorithm.<br>
