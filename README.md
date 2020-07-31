@@ -14,10 +14,10 @@ A habit analysis program based on Apriori algorithm.
 For questions and support please use the <a href="https://gitter.im/habits-apriori/community">community chat</a>. The issue list of this repo is exclusively for bug reports and feature requests.
 
 ## Stay In Touch
-Wechat
-QQ
+<a>Wechat</a>
+<a>QQ</a>
 
 ## License
-MIT
+<a href="https://raw.githubusercontent.com/ybygjylj/habits-apriori/master/LICENSE">MIT</a>
 
 Copyright (c) 2020 一步一个脚印
