@@ -7,3 +7,5 @@
   <a href="https://gitter.im/habits-apriori/community"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="chat"></a>
 </p>
 
+## Introduction
+A habit analysis program based on Apriori algorithm.
