@@ -1,5 +1,5 @@
 ![](chart/chart.png)
-![](“chart/chart(1).png”)
+![](chart/chart(1).png)
 ![](chart/chart(2).png)
 ![](chart/chart(3).png)
 ![](chart/chart(5).png)
