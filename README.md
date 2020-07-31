@@ -17,6 +17,9 @@ For questions and support please use the <a href="https://gitter.im/habits-aprio
 ## Stay In Touch
 - <a href="https://i.loli.net/2020/07/31/ptBWyVHU1Nzowhg.jpg" target="_blank">QQ</a>
 
+## Thanks
+This project is my practical work in the innovation education laboratory. I am very grateful to the innovation mentor Tian Xiaojue and other people who helped and supported me.
+
 ## License
 <a href="https://raw.githubusercontent.com/ybygjylj/habits-apriori/master/LICENSE">MIT</a>
 
