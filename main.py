@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import pandas as pd
 import itertools
 #读取数据并进行编号和转换
