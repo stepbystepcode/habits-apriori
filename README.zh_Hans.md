@@ -14,6 +14,15 @@
 本人通过腾讯问卷收集了56份学生成绩与习惯的数据并导出CSV文件，通过这个python程序分析了习惯对成绩的影响。
 ![demo.png](https://i.loli.net/2020/07/31/2If7lqpmnOYTaQk.png)
 
+## 使用
+```
+git clone https://github.com/ybygjylj/habits-apriori.git
+cd habits-apriori
+pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pandas
+python3 main.py #on Linux
+python main.py #on Windows
+```
+
 ## 调查问卷结果图表
 [图表](chart.md)
 
