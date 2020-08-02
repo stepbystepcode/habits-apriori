@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import pandas as pd
 import itertools
 #读取数据并进行编号和转换
@@ -8,17 +9,15 @@ def prepare():
     return data
 def change_mean(data):
     habits = ["有计划","预习","记笔记","主动回答问题","有问题及时提问","复习","认真完成作业","及时订正错题","认真记笔记","自律","作息规律","不玩游戏","成绩好"]
-    goodhabits = [[2,3],[2,4],[2,3,4],[3,4],[4],[3,4],[3,4],[2,3,4],[4],[1,2,3],[2],[3],[1,2,3,4,5,6,7]]
     out = []
     for i in range(len(data.values)):
         for j in range(len(habits)):
-            for k in goodhabits[j]:
-                if data.values[i][j]==str(k):
-                    data.values[i][j]=habits[j]
+            if data.values[i][j]=="1":
+                data.values[i][j]=habits[j]
     out = data.values.tolist()
     for row in out:
         for i in range(len(row)-1,-1,-1):
-            if row[i] == "1" or row[i] == "2" or row[i] == "3" or row[i] == "4" or row[i] == "5" or row[i] == "6" or row[i] == "7" or row[i] == "8" or row[i] == "9" or row[i] == "10":
+            if row[i] == "2":
                 row.remove(row[i])
     return out
 datas = change_mean(prepare())
