@@ -12,7 +12,7 @@
 ## Introduction
 A habit analysis program based on Apriori algorithm.<br>
 I collected 56 pieces of data on student performance and habits through Tencent questionnaires and exported them to CSV files. Through this python program, I analyzed the influence of habits on performance.
-![demo.png](https://i.loli.net/2020/07/31/2If7lqpmnOYTaQk.png)
+![demo.png](https://i.loli.net/2020/08/03/Y3leoic26hBHtNw.png)
 
 ## Using
 ```
