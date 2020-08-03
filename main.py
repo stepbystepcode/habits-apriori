@@ -4,11 +4,11 @@ import itertools
 #读取数据并进行编号和转换
 def prepare():
     data = pd.read_csv('data.csv', header=None)
-    data = data.iloc[1:,12:25]
-    data.columns = ["1","2","3","4","5","6","7","8","9","10","11","12","13"]
+    data = data.iloc[1:,12:21]
+    data.columns = ["1","2","3","4","5","6","7","8","9"]
     return data
 def change_mean(data):
-    habits = ["有计划","预习","记笔记","主动回答问题","有问题及时提问","复习","认真完成作业","及时订正错题","认真记笔记","自律","作息规律","不玩游戏","成绩好"]
+    habits = ["有计划","预习","记笔记","主动回答问题","有问题及时提问","复习","认真完成作业","及时订正错题","成绩好"]
     out = []
     for i in range(len(data.values)):
         for j in range(len(habits)):
