@@ -22,6 +22,9 @@ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pandas
 python3 main.py #on Linux
 python main.py #on Windows
 ```
+<video id="video" controls="" preload="none" poster="https://gitee.com/ybygjylj/datas/raw/master/demo.mp4">
+<source id="mp4" src="https://gitee.com/ybygjylj/datas/raw/master/demo.mp4" type="video/mp4">
+</video>
 
 ## Survey chart
 [Survey chart](chart.md)
@@ -31,9 +34,6 @@ For questions and support please use the <a href="https://gitter.im/habits-aprio
 
 ## Stay In Touch
 - <a href="https://i.loli.net/2020/07/31/ptBWyVHU1Nzowhg.jpg" target="_blank">QQ</a>
-
-## Thanks
-This project is my practical work in the innovation education laboratory. I am very grateful to the innovation mentor Tian Xiaojue and other people who helped and supported me.
 
 ## LICENSE
 <a href="https://raw.githubusercontent.com/ybygjylj/habits-apriori/master/LICENSE">MIT</a>

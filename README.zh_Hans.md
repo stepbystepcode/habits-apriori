@@ -22,6 +22,9 @@ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pandas
 python3 main.py #on Linux
 python main.py #on Windows
 ```
+<video id="video" controls="" preload="none" poster="https://gitee.com/ybygjylj/datas/raw/master/demo.mp4">
+<source id="mp4" src="https://gitee.com/ybygjylj/datas/raw/master/demo.mp4" type="video/mp4">
+</video>
 
 ## 调查问卷结果图表
 [图表](chart.md)
@@ -31,9 +34,6 @@ python main.py #on Windows
 
 ## 保持联系
 - <a href="https://i.loli.net/2020/07/31/ptBWyVHU1Nzowhg.jpg" target="_blank">QQ</a>
-
-## 特别感谢
-这个项目是我在创新教育实验室的实践作品。非常感谢创新导师田晓珏和其他帮助支持我的人。
 
 ## 许可
 <a href="https://raw.githubusercontent.com/ybygjylj/habits-apriori/master/LICENSE">MIT</a>
