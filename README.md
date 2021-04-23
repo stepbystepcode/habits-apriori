@@ -22,9 +22,7 @@ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pandas
 python3 main.py #on Linux
 python main.py #on Windows
 ```
-<video id="video" controls="" preload="none" poster="https://gitee.com/ybygjylj/datas/raw/master/demo.mp4">
-<source id="mp4" src="https://gitee.com/ybygjylj/datas/raw/master/demo.mp4" type="video/mp4">
-</video>
+[video](https://gitee.com/ybygjylj/datas/raw/master/demo.mp4)
 
 ## Survey chart
 [Survey chart](chart.md)

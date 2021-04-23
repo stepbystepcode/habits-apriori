@@ -22,9 +22,7 @@ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pandas
 python3 main.py #on Linux
 python main.py #on Windows
 ```
-<video id="video" controls="" preload="none" poster="https://gitee.com/ybygjylj/datas/raw/master/demo.mp4">
-<source id="mp4" src="https://gitee.com/ybygjylj/datas/raw/master/demo.mp4" type="video/mp4">
-</video>
+[演示视频](https://gitee.com/ybygjylj/datas/raw/master/demo.mp4)
 
 ## 调查问卷结果图表
 [图表](chart.md)
